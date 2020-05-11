@@ -1,0 +1,30 @@
+#input {
+   width: 80%;
+   height: 80%;
+   margin: auto;
+   display:block;
+  }
+
+#inputbox{
+    width: 45%;
+    height: 100%;
+    float: left;
+    margin: auto;
+    display: block;
+    text-align: left;
+    padding: 10px;
+}
+
+#showinput {
+    width: 45%;
+    height: 100%;
+    float: left;
+    margin: auto;
+    display: block;
+    text-align: left;
+    padding: 10px;
+   }
+
+#showinput label{
+    font-weight: bold;
+}
